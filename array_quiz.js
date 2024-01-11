@@ -2,7 +2,7 @@
 // // for(let i=0;i<arr.length;i++){
 // //     console.log(arr[i]);
 // // }
-
+//shivam mishra is a good coder 
 // // for(let i in arr){
 // //     console.log(arr[i]);
 // // }
