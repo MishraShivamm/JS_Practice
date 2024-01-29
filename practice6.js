@@ -45,7 +45,7 @@ while (runAgain){
 
 
 /* Q3. In the previous question use console.error to log the error if the age entered is negative 
-*/
+
 
 const canDrive = (age)=>{
     return age>=18 ? true: false
@@ -66,3 +66,26 @@ while (runAgain){
     }
     runAgain = confirm("Do you want to play again?")
 }
+*/
+/*
+Q4: Write a program to change the url to google.com (Redirection) of user enter a number greater than 4 
+
+
+let num = prompt("Enter your number");
+num = Number.parseInt(num);
+
+if(num>4){
+    location.href="https://google.com/"; 
+}
+else{
+    alert("Enter a valid number");
+}
+*/
+/* 
+Q5: Change the background of the page to yellow , red or any other color based on user input through prompt 
+
+
+let color = prompt("Enter background color");
+
+document.body.style.background = color;
+*/
